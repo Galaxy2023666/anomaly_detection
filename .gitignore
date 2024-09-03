@@ -1,0 +1,10 @@
+*.zip
+*.npy
+*.pkl
+*.pth
+*.png
+*.csv
+*.txt
+*.xlsx
+*.json
+*.tsv
